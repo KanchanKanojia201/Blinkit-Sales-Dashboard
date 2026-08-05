@@ -1,5 +1,7 @@
 #PROJECT 1 : loan-approval-dashboard
+
 Loan Approval Dashboard built using Excel, SQL, Python and Power BI to analyze loan applications, approvals, applicant profiles and lending trends.
+
 EXCEL:-
 1) Imported the loan Dataset.
 2) Cleaned the data (Handled missing values, duplicates, formatting).
