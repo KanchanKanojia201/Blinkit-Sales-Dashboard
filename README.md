@@ -1,4 +1,4 @@
-#PROJECT 1 : loan-approval-dashboard
+## PROJECT 1 : LOAN-APRROVAL-DASHBOARD
 
 Loan Approval Dashboard built using Excel, SQL, Python and Power BI to analyze loan applications, approvals, applicant profiles and lending trends.
 
