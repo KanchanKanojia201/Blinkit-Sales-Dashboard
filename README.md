@@ -1,34 +1,51 @@
-## PROJECT 1 : LOAN-APRROVAL-DASHBOARD
+# Data Analytics Portfolio
 
-Loan Approval Dashboard built using Excel, SQL, Python and Power BI to analyze loan applications, approvals, applicant profiles and lending trends.
+Welcome to my Data Analytics Portfolio! This repository showcases two projects demonstrating my skills in data analysis, data cleaning, SQL, Python, Excel, and Power BI.
 
-EXCEL:-
-1) Imported the loan Dataset.
-2) Cleaned the data (Handled missing values, duplicates, formatting).
-3) Performed initial analysis with Pivot Tables and Charts.
+## Project 1: Loan Approval Dashboard
 
-SQL:- 
-1) Queried the dataset using SELECT, WHERE, ORDER BY, GROUP BY, HAVING, and aggregate Functions (COUNT, SUM, AVG).
-2) Filtered and analyzed records.
-3) Retrieved business insights from the data.
+### Project Overview
+Analyzed loan application data to explore applicant profiles, loan approvals, and lending trends.
 
-PYTHON:-
-1) Loaded the dataset using pandas.
-2) Performed EDA.
-3) Created Visualizations using Matplotlib/Seaborn to identify trends and Patterns.
+### Tools Used
+- Excel
+- SQL
+- Python (Pandas, Matplotlib, Seaborn)
+- Power BI
 
-POWER BI:-
-1) Imported the cleaned dataset.
-2) Built an interactive dashboard with KPIs, Charts, and Slicers.
+### Work Performed
+- Cleaned data by handling missing values, duplicates, and formatting issues.
+- Used Excel for exploratory analysis, PivotTables, and charts.
+- Queried and analyzed data using SQL filtering, grouping, and aggregate functions.
+- Performed exploratory data analysis (EDA) and created visualizations in Python.
+- Built an interactive Power BI dashboard with KPIs, charts, and slicers.
 
-## PROJECT 2 : BLINKIT DASHBOARD
-Here, I Used Excel and Power BI
-EXCEL:-
-1) Imported the BLINKI Dataset.
-2) Cleaned the Data (Handled missing values, duplicates, formatting).
-3) Performed analysis with Picot Tables and Charts.
+### Dashboard File
+`Loan Approval Dashboard.pbix`
 
-POWER BI:- 
-1) Imported the Cleaned Dataset.
-2) Built an Interactive Dashboard  using KPIs, Charts, Slicers and Drill-through.
-3) Enabled Dynamic-filtering and generated business insights for decision-making.
+## Project 2: Blinkit Sales Dashboard
+
+### Project Overview
+Explored Blinkit sales data to understand sales performance and patterns across products and outlets.
+
+### Tools Used
+- Excel
+- Power BI
+
+### Work Performed
+- Cleaned and prepared the dataset.
+- Used Excel PivotTables and charts for initial analysis.
+- Created an interactive Power BI dashboard to present sales metrics and trends.
+
+### Dashboard File
+`Blinkit Sales Dashboard.pbix` 
+
+## Key Learnings
+- Data cleaning and preparation
+- Exploratory data analysis
+- SQL querying and aggregation
+- Dashboard development and data visualization
+- Presenting data for business analysis
+
+## About Me
+I am an aspiring Data Analyst with a B.Com background and training in data analytics. I am looking for entry-level opportunities where I can apply my analytical skills and continue learning.
